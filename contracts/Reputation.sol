@@ -1,4 +1,4 @@
-// SPDX-License-Identifier:
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
 contract Project {
@@ -25,3 +25,4 @@ contract Project {
         return f.totalRating / f.numRatings;
     }
 }
+
